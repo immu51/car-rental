@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <!-- Your SVG -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="260" height="90" viewBox="0 0 270 70" fill="none">
+      <style>
+        .text { font: bold 35px 'Segoe UI', sans-serif; fill: #2c3e50; }
+        .highlight { fill: #3498db; }
+      </style>
+      <g transform="translate(10, 18)">
+        <path d="M10 28 h60 a4 4 0 0 0 4 -4 v-6 a4 4 0 0 0 -3 -4 l-8 -10 a4 4 0 0 0 -3 -1 h-40 a4 4 0 0 0 -3 1 l-8 10 a4 4 0 0 0 -3 4 v6 a4 4 0 0 0 4 4 z" fill="#3498db"/>
+        <circle cx="25" cy="36" r="5" fill="#2c3e50"/>
+        <circle cx="55" cy="36" r="5" fill="#2c3e50"/>
+      </g>
+      <text x="90" y="48" class="text">
+        <tspan class="highlight">Car</tspan>Rentor
+      </text>
+    </svg>
+  </body>
+</html>
